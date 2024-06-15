@@ -57,7 +57,7 @@ The Solana smart contract is deployed on the devnet with the program ID: `D7VHn8
 - **Add Review**: Allows users to add a new review with a title, location, description, and rating.
 - **Update Review**: Enables users to update an existing review identified by the unique title.
 
-Playground link for the smart contract: [Solana Location Review DApp](https://beta.solpg.io/666e1affcffcf4b13384d188)
+Playground link for the smart contract: [Solana Location Review DApp](https://beta.solpg.io/666e1b67cffcf4b13384d189)
 
 ### Interaction
 
