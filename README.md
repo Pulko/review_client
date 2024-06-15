@@ -76,4 +76,4 @@ The frontend is built with Next.js and provides a simple form-based interface fo
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
