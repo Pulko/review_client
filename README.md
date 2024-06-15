@@ -57,6 +57,8 @@ The Solana smart contract is deployed on the devnet with the program ID: `D7VHn8
 - **Add Review**: Allows users to add a new review with a title, location, description, and rating.
 - **Update Review**: Enables users to update an existing review identified by the unique title.
 
+Playground link for the smart contract: [Solana Location Review DApp](https://beta.solpg.io/666e1affcffcf4b13384d188)
+
 ### Interaction
 
 The smart contract is interacted with using Solana Web3.js. The frontend handles the connection, transaction creation, and submission to the Solana blockchain.
